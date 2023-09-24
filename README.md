@@ -1,4 +1,4 @@
-# This project is underconstruction. 
+# This project is under construction. 
 
 The project uses panel data which represents mortgage borrowers over 60 periods. The loans may originate before the start of the observation (referred to as the current period throughout) period. The loan observations may  be censored as the loans mature or borrowers refinance. The data set is a randomized selection of mortgage-loan-level data collected from the portfolios underlying U.S. residential mortgage-backed securities (RMBS) securitization portfolios. 
 
